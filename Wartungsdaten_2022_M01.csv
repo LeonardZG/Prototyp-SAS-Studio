@@ -1,0 +1,101 @@
+Datum,MaschinenID,Wartungsgrund,Wartungsdauer
+2022-01-03,M01,Routine-Check,11
+2022-01-09,M01,Notfallreparatur,12
+2022-01-10,M01,Austausch von Verschleißteilen,12
+2022-01-16,M01,Notfallreparatur,4
+2022-01-23,M01,Routine-Check,13
+2022-01-24,M01,Notfallreparatur,3
+2022-01-25,M01,Austausch von Verschleißteilen,8
+2022-01-27,M01,Routine-Check,10
+2022-01-31,M01,Notfallreparatur,12
+2022-02-04,M01,Austausch von Verschleißteilen,4
+2022-02-07,M01,Austausch von Verschleißteilen,15
+2022-02-09,M01,Routine-Check,15
+2022-02-10,M01,Notfallreparatur,13
+2022-02-19,M01,Austausch von Verschleißteilen,6
+2022-02-19,M01,Notfallreparatur,4
+2022-02-20,M01,Notfallreparatur,2
+2022-02-24,M01,Austausch von Verschleißteilen,9
+2022-02-28,M01,Austausch von Verschleißteilen,6
+2022-03-04,M01,Austausch von Verschleißteilen,14
+2022-03-06,M01,Notfallreparatur,12
+2022-03-07,M01,Austausch von Verschleißteilen,4
+2022-03-08,M01,Austausch von Verschleißteilen,13
+2022-03-10,M01,Notfallreparatur,6
+2022-03-13,M01,Notfallreparatur,8
+2022-03-18,M01,Austausch von Verschleißteilen,14
+2022-03-20,M01,Notfallreparatur,9
+2022-03-21,M01,Routine-Check,9
+2022-03-24,M01,Notfallreparatur,15
+2022-04-01,M01,Routine-Check,8
+2022-04-02,M01,Routine-Check,2
+2022-04-03,M01,Notfallreparatur,13
+2022-04-14,M01,Austausch von Verschleißteilen,9
+2022-04-14,M01,Routine-Check,8
+2022-04-16,M01,Notfallreparatur,7
+2022-04-16,M01,Routine-Check,7
+2022-04-17,M01,Routine-Check,6
+2022-04-17,M01,Notfallreparatur,14
+2022-04-18,M01,Notfallreparatur,8
+2022-04-20,M01,Austausch von Verschleißteilen,1
+2022-04-23,M01,Routine-Check,11
+2022-05-07,M01,Routine-Check,4
+2022-05-10,M01,Notfallreparatur,4
+2022-05-17,M01,Routine-Check,6
+2022-05-18,M01,Notfallreparatur,6
+2022-05-19,M01,Notfallreparatur,14
+2022-05-20,M01,Notfallreparatur,5
+2022-05-27,M01,Notfallreparatur,9
+2022-05-30,M01,Austausch von Verschleißteilen,13
+2022-06-07,M01,Notfallreparatur,6
+2022-06-07,M01,Notfallreparatur,12
+2022-06-10,M01,Austausch von Verschleißteilen,12
+2022-06-11,M01,Austausch von Verschleißteilen,12
+2022-06-25,M01,Routine-Check,10
+2022-06-26,M01,Routine-Check,9
+2022-06-27,M01,Routine-Check,12
+2022-07-11,M01,Notfallreparatur,14
+2022-07-17,M01,Notfallreparatur,6
+2022-07-22,M01,Routine-Check,11
+2022-07-26,M01,Austausch von Verschleißteilen,9
+2022-07-26,M01,Austausch von Verschleißteilen,7
+2022-07-31,M01,Notfallreparatur,10
+2022-08-18,M01,Notfallreparatur,12
+2022-08-23,M01,Austausch von Verschleißteilen,15
+2022-08-25,M01,Notfallreparatur,6
+2022-08-26,M01,Austausch von Verschleißteilen,2
+2022-08-29,M01,Notfallreparatur,1
+2022-09-01,M01,Austausch von Verschleißteilen,1
+2022-09-07,M01,Austausch von Verschleißteilen,6
+2022-09-11,M01,Routine-Check,7
+2022-09-14,M01,Notfallreparatur,14
+2022-09-14,M01,Austausch von Verschleißteilen,7
+2022-09-14,M01,Notfallreparatur,13
+2022-09-15,M01,Austausch von Verschleißteilen,3
+2022-09-15,M01,Routine-Check,15
+2022-09-22,M01,Austausch von Verschleißteilen,14
+2022-09-23,M01,Notfallreparatur,11
+2022-09-30,M01,Notfallreparatur,1
+2022-10-03,M01,Notfallreparatur,11
+2022-10-03,M01,Notfallreparatur,12
+2022-10-04,M01,Austausch von Verschleißteilen,3
+2022-10-07,M01,Notfallreparatur,3
+2022-10-10,M01,Routine-Check,5
+2022-10-14,M01,Routine-Check,9
+2022-10-14,M01,Austausch von Verschleißteilen,1
+2022-10-28,M01,Routine-Check,4
+2022-11-05,M01,Routine-Check,5
+2022-11-15,M01,Routine-Check,5
+2022-11-21,M01,Routine-Check,13
+2022-11-24,M01,Routine-Check,11
+2022-11-26,M01,Routine-Check,13
+2022-11-28,M01,Austausch von Verschleißteilen,1
+2022-11-30,M01,Routine-Check,2
+2022-11-30,M01,Austausch von Verschleißteilen,7
+2022-11-30,M01,Austausch von Verschleißteilen,13
+2022-12-02,M01,Austausch von Verschleißteilen,11
+2022-12-03,M01,Austausch von Verschleißteilen,14
+2022-12-08,M01,Austausch von Verschleißteilen,10
+2022-12-08,M01,Notfallreparatur,5
+2022-12-12,M01,Routine-Check,14
+2022-12-30,M01,Routine-Check,9
